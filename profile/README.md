@@ -1,22 +1,11 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-# .github
-
 ![별다줄게-로고](https://raw.githubusercontent.com/AI-X-min-projext-ITOWE/.github/refs/heads/main/logo.webp)
 
 # Your Gardening Journey
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafresh-2024&count_bg=%23565AE5&title_bg=%23B3B3B3&icon=&icon_color=%23E7E7E7&title=Leafresh&edge_flat=false)](https://hits.seeyoufarm.com)
+![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-v3.3.3-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
 
 
 ## DEMO - QR or Click!
