@@ -95,20 +95,20 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 
 ## 🌿 Contributor
 
-<a href="https://github.com/ppudding3861">
-    <img src="https://github.com/user-attachments/assets/98f92edb-156b-4c99-a8bc-018fd134c0ac" alt="형석프로필" width="250">
+<a href="https://github.com/Shineunhan">
+    <img src="https://github.com/user-attachments/assets/98f92edb-156b-4c99-a8bc-018fd134c0ac" alt="은한프로필" width="250">
 </a>
 
-<a href="https://github.com/stjoo0925">
-    <img src="https://github.com/user-attachments/assets/d2ef55c0-4041-4aa7-aaee-90f0b9a415a4" alt="순태프로필" width="250">
+<a href="https://github.com/parkkkkjuneHyeon">
+    <img src="https://github.com/user-attachments/assets/d2ef55c0-4041-4aa7-aaee-90f0b9a415a4" alt="준현프로필" width="250">
 </a>
 
-<a href="https://github.com/dansun2">
-    <img src="https://github.com/user-attachments/assets/4edd8ed5-bba6-4f25-9fd0-6a7a648bb982" alt="서현프로필" width="250">
+<a href="https://github.com/Jin-tonix">
+    <img src="https://github.com/user-attachments/assets/4edd8ed5-bba6-4f25-9fd0-6a7a648bb982" alt="진희프로필" width="250">
 </a>
 
-<a href="https://github.com/jinnyjinny12">
-    <img src="https://github.com/user-attachments/assets/ba144ccf-ff4b-4b11-bd56-a55f0ee5e188" alt="은진프로필" width="250">
+<a href="https://github.com/oct1H">
+    <img src="https://github.com/user-attachments/assets/ba144ccf-ff4b-4b11-bd56-a55f0ee5e188" alt="상훈프로필" width="250">
 </a>
 
 <a href="https://github.com/hwangjeonghan">
