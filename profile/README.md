@@ -14,14 +14,11 @@
 
 # .github
 
-![리프레시-로고](https://files.oaiusercontent.com/file-2nfo2P221qcfPECNRFt5CUns?se=2024-10-28T03%3A07%3A56Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2b5c45d0-b4be-46b6-b66c-e756fa89542d.webp&sig=9b0bgH2hwtzqVVPd3p7dSIrPYlJ7jiCgWRYXbR%2BlgH0%3D)
+![별다줄게-로고]()
 
 # Your Gardening Journey
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafresh-2024&count_bg=%23565AE5&title_bg=%23B3B3B3&icon=&icon_color=%23E7E7E7&title=Leafresh&edge_flat=false)](https://hits.seeyoufarm.com)
-![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-v3.3.3-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
+<img src = "logo.webp" alt = "별다줄게 로고" width="200"/>
 
 
 ## DEMO - QR or Click!
