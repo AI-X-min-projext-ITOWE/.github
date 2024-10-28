@@ -7,7 +7,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
 
-## 🌿 Why Leafresh?
+## 🌟 별 다줄게!!
 
 ### 1. 체계적인 원예 관리
    
@@ -31,17 +31,17 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 [![leafresh-wiki](https://github.com/user-attachments/assets/2694b3d9-d788-48cd-9f2f-d00e272b0cab)](https://github.com/Leafresh-2024/.github/wiki)
 
 
-## 🌿 Architecture
+## 🌟 Architecture
 
 ![flux-architecture](https://github.com/user-attachments/assets/50a132dc-c99d-41b9-b18c-d2f33b2a29a8)
 
 
-## 🌿 Used By
+## 🌟 Used By
 
 ![TECH STACK](https://github.com/user-attachments/assets/9f21844d-7c2d-4368-b224-ab254a601be4)
 
 
-## 🌿 Features
+## 🌟 Features
 
 ### 원예일지
 - 프로필
@@ -71,7 +71,7 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 ### 회원가입
 - 이메일을 통한 회원가입.
 
-## 🌿 Contributor
+## 🌟 Contributor
 
 + hwangjeonghan | 황정한 | [깃허브](https://github.com/hwangjeonghan)
 
@@ -85,7 +85,7 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 
 + wooseungyeop | 최상훈 | [깃허브](https://github.com/oct1H)
 
-## 🌿 Browser Support
+## 🌟 Browser Support
 
 | <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox |
 | :---------: | :---------: | :---------: | :---------: | :---------: |
