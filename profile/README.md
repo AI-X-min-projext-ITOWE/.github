@@ -14,11 +14,9 @@
 
 # .github
 
-![별다줄게-로고]()
+![별다줄게-로고](https://raw.githubusercontent.com/AI-X-min-projext-ITOWE/.github/refs/heads/main/logo.webp)
 
 # Your Gardening Journey
-
-<img src = "logo.webp" alt = "별다줄게 로고" width="200"/>
 
 
 ## DEMO - QR or Click!
