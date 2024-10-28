@@ -1,4 +1,4 @@
-![별다줄게-로고](https://raw.githubusercontent.com/AI-X-min-projext-ITOWE/.github/refs/heads/main/logo.webp)
+![별다줄게-로고](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/logo%20(2).jpg)
 
 # Your Gardening Journey
 
