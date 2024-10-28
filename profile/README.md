@@ -14,7 +14,7 @@
 
 # .github
 
-![리프레시-로고](https://github.com/user-attachments/assets/198f9ba8-bc25-4ce2-884f-82ad7c42dd45)
+![리프레시-로고](https://files.oaiusercontent.com/file-2nfo2P221qcfPECNRFt5CUns?se=2024-10-28T03%3A07%3A56Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2b5c45d0-b4be-46b6-b66c-e756fa89542d.webp&sig=9b0bgH2hwtzqVVPd3p7dSIrPYlJ7jiCgWRYXbR%2BlgH0%3D)
 
 # Your Gardening Journey
 
