@@ -1,11 +1,12 @@
 ![별다줄게-로고](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/logo%20(2).jpg)
 
-# Your Gardening Journey
+# Your Dreaming Journey
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafresh-2024&count_bg=%23565AE5&title_bg=%23B3B3B3&icon=&icon_color=%23E7E7E7&title=Leafresh&edge_flat=false)](https://hits.seeyoufarm.com)
-![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-v3.3.3-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-v3.11.4-%233776AB?style=flat&logo=python&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-v2.1.0-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-v18.2.0-%2361DAFB?style=flat&logo=react&logoColor=white)
+
 
 ## 🌟 별 다줄게!!
 
