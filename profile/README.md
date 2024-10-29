@@ -25,21 +25,16 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 
 ## 🌿 Table of Contents
 
-[![leaf-mirro](https://github.com/user-attachments/assets/eda4934e-195b-439b-9c0e-0a11cd2585d4)](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
 [![leaf-figma](https://github.com/user-attachments/assets/d90bec0d-46ed-4c60-a71e-f565376a8fc6)](https://www.figma.com/design/cshzRIFsmi68c5zaYjmAkV/Leafresh?node-id=0-1&t=24EeBDSnbUCdNna2-1)
 [![leaf-notion](https://github.com/user-attachments/assets/6502c2a5-1255-4880-b78f-f21c523a9c68)](https://www.notion.so/Leafresh-66e3bcc8e36e4be8bfd7e1bc087ff882)
 [![leafresh-wiki](https://github.com/user-attachments/assets/2694b3d9-d788-48cd-9f2f-d00e272b0cab)](https://github.com/Leafresh-2024/.github/wiki)
 
 
 ## 🌟 Architecture
-
-![flux-architecture](https://github.com/user-attachments/assets/50a132dc-c99d-41b9-b18c-d2f33b2a29a8)
-
+<br>
 
 ## 🌟 Used By
-
-![TECH STACK](https://github.com/user-attachments/assets/9f21844d-7c2d-4368-b224-ab254a601be4)
-
+<br>
 
 ## 🌟 Features
 
