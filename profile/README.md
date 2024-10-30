@@ -1,4 +1,4 @@
-![별다줄게-로고](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/logo%20(2).jpg)
+![별다줄게-로고]()
 
 # Your Dreaming Journey
 
