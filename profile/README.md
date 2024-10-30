@@ -35,7 +35,7 @@
 
 + hwangjeonghan | 박준현 | [깃허브](https://github.com/parkkkkjuneHyeon)
 
-+ dansun2 | 서은진 | [깃허브](https://github.com/jinnyjinny12)
++ jinnyjinny12 | 서은진 | [깃허브](https://github.com/jinnyjinny12)
 
 + KHY90 | 목진희 | [깃허브](https://github.com/Jin-tonix)
 
