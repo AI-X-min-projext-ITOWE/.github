@@ -3,7 +3,6 @@
 
 # Brifify - AI 기반 문서 번역 및 요약 서비스
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafresh-2024&count_bg=%23565AE5&title_bg=%23B3B3B3&icon=&icon_color=%23E7E7E7&title=Leafresh&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Python Badge](https://img.shields.io/badge/Python-v3.11.4-%233776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-v2.1.0-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-v18.2.0-%2361DAFB?style=flat&logo=react&logoColor=white)
