@@ -30,15 +30,15 @@
 
 + hwangjeonghan | 황정한 | [깃허브](https://github.com/hwangjeonghan)
 
-+ ppudding3861 | 신은한 | [깃허브](https://github.com/Shineunhan)
++ Shineunhan | 신은한 | [깃허브](https://github.com/Shineunhan)
 
-+ hwangjeonghan | 박준현 | [깃허브](https://github.com/parkkkkjuneHyeon)
++ parkkkkjuneHyeon | 박준현 | [깃허브](https://github.com/parkkkkjuneHyeon)
 
 + jinnyjinny12 | 서은진 | [깃허브](https://github.com/jinnyjinny12)
 
-+ KHY90 | 목진희 | [깃허브](https://github.com/Jin-tonix)
++ Jin-tonix | 목진희 | [깃허브](https://github.com/Jin-tonix)
 
-+ wooseungyeop | 최상훈 | [깃허브](https://github.com/oct1H)
++ oct1H | 최상훈 | [깃허브](https://github.com/oct1H)
 
 ## 🌟 Browser Support
 
