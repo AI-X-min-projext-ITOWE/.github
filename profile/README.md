@@ -19,6 +19,11 @@
 <br>
 
 ## 📑 Task
++ https://huggingface.co/facebook/nllb-200-distilled-600M
++ https://huggingface.co/eenzeenee/t5-base-korean-summarization
++ https://joyhong.tistory.com/79
++ https://pypi.org/project/gTTS
+
 <br>
 
 ## 📑 Branch
