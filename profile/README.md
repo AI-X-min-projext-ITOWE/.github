@@ -19,7 +19,8 @@
 <br>
 
 
-## 🌟 Architecture
+## 🌟 STACK
+![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/image.png)
 <br>
 
 ## 🌟 Used By
