@@ -16,19 +16,23 @@
 - **음성 읽기**: 요약된 내용을 음성으로 들을 수 있어, 언제 어디서나 손쉽게 핵심 정보를 습득할 수 있습니다.
 
 <br>
+## 📑 Task
+<br>
+
+## 📑 Branch
 <br>
 
 
-## 🌟 STACK
+## 📑 STACK
 ![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/image.png)
 <br>
 
-## 🌟 Architecture
+## 📑 Architecture
 ![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-11-04%20144809.png)
 <br>
 
 
-## 🌟 Contributor
+## 📑 Contributor
 
 + hwangjeonghan | 황정한 | [깃허브](https://github.com/hwangjeonghan)
 
