@@ -24,7 +24,7 @@
 <br>
 
 ## 🌟 Architecture
-![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-11-04%20144317.png)
+![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-11-04%20144809.png)
 <br>
 
 
