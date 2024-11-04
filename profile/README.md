@@ -1,7 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/6f8df8b4-b9fc-4104-a3a3-2a221314a882)
 
-# 📑 Brifify - AI 기반 문서 번역 및 요약 서비스
+# 📑 Briefify - AI 기반 문서 번역 및 요약 서비스
 
 ![Python Badge](https://img.shields.io/badge/Python-v3.11.4-%233776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-v2.1.0-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
