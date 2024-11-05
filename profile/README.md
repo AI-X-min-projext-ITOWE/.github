@@ -35,8 +35,11 @@
 <br>
 
 ## 📑 Architecture
-![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-11-04%20144809.png)
+
 <br>
+
+![img](https://github.com/user-attachments/assets/1a7297c5-56ad-4657-9183-1cb626bab6fb)
+
 
 
 ## 📑 Contributor
