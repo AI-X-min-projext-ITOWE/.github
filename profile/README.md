@@ -19,11 +19,22 @@
 <br>
 
 ## 📑 Task
-+ https://huggingface.co/facebook/nllb-200-distilled-600M
-+ https://huggingface.co/eenzeenee/t5-base-korean-summarization
-+ https://joyhong.tistory.com/79
-+ https://pypi.org/project/gTTS
 
+### 💬 Language Translation
+- **[NLLB-200 Distilled Model (600M) by Facebook](https://huggingface.co/facebook/nllb-200-distilled-600M)**  
+  고성능 다국어 번역 모델로, 다양한 언어 간 번역을 지원합니다.
+
+### 📚 Text Summarization
+- **[T5-Base Korean Summarization by eenzeenee](https://huggingface.co/eenzeenee/t5-base-korean-summarization)**  
+  한국어 텍스트 요약에 최적화된 T5-Base 모델로, 긴 텍스트를 간결하게 요약합니다.
+
+### 📝 참고 자료
+- **[Joyhong's Blog - Korean NLP Tips](https://joyhong.tistory.com/79)**  
+  한국어 자연어 처리(NLP)에 대한 유용한 정보와 팁을 제공합니다.
+
+### 🔊 Text-to-Speech
+- **[gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS)**  
+  텍스트를 오디오로 변환하는 Python 라이브러리로, 음성 파일 생성에 사용됩니다.
 <br>
 
 ## 📑 Branch
