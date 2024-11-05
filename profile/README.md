@@ -40,6 +40,25 @@
 ## 📑 Branch
 <br>
 
+이 프로젝트는 효율적인 협업과 안정적인 배포를 위해 `release`, `dev`, `feature` 브랜치를 사용하는 Git 브랜치 전략을 채택했습니다.
+![깃허브 전략](https://github.com/user-attachments/assets/2625e974-353b-4db6-bb78-7fe33258ecfc)
+
+
+### 🔹 `feature` Branch
+- **목적**: 새로운 기능이나 버그 수정을 개발하는 브랜치입니다.
+- **사용 방법**: 각 기능 또는 수정 사항마다 별도의 `feature` 브랜치를 생성하며, 브랜치 이름은 `feature/기능명` 형식을 따릅니다.
+
+### 🔹 `dev` Branch
+- **목적**: 통합 개발을 위한 브랜치로, 모든 `feature` 브랜치의 변경 사항이 이곳에서 모여 테스트됩니다.
+- **사용 방법**: 기능별 개발이 완료되면 `dev` 브랜치에서 전체적으로 테스트하고 오류를 확인합니다.
+
+### 🔹 `release` Branch
+- **목적**: 배포 준비가 완료된 안정적인 코드를 관리하는 브랜치입니다.
+- **사용 방법**: `dev` 브랜치에서 충분한 테스트가 완료된 후 `release` 브랜치로 이동하여 실제 배포를 진행합니다.
+
+이 브랜치 전략을 통해 기능 개발부터 배포까지 안정적으로 관리하며, 코드의 품질을 유지하고 있습니다.
+<br>
+
 
 ## 📑 STACK
 ![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/image.png)
