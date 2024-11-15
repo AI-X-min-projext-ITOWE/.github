@@ -1,5 +1,6 @@
-<details>
-  <summary>AI-x 미니프로젝트</summary>
+
+
+ <summary>AI-x 미니프로젝트</summary>
   
 ![image](https://github.com/user-attachments/assets/6f8df8b4-b9fc-4104-a3a3-2a221314a882)
 
@@ -73,10 +74,6 @@
 ![img](https://github.com/user-attachments/assets/1a7297c5-56ad-4657-9183-1cb626bab6fb)
 
   토글 안에 들어갈 내용입니다.
-</details>
-
-
-
 
 
 
