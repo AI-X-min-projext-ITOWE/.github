@@ -75,11 +75,7 @@
   토글 안에 들어갈 내용입니다.
 </details>
 
-<details>
-  <summary>AI-x 본 프로젝트</summary>
-  
 
-</details>
 
 
 
