@@ -1,5 +1,8 @@
 <details>
   <summary>AI-x 미니프로젝트</summary>
+
+<details>
+<summary>AI-x FitChecker</summary>
   
 ![image](https://github.com/user-attachments/assets/6f8df8b4-b9fc-4104-a3a3-2a221314a882)
 
