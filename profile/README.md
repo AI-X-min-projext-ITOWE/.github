@@ -29,9 +29,9 @@
 - **[T5-Base Korean Summarization by eenzeenee](https://huggingface.co/eenzeenee/t5-base-korean-summarization)**  
   한국어 텍스트 요약에 최적화된 T5-Base 모델로, 긴 텍스트를 간결하게 요약합니다.
 
-### 📝 참고 자료
+### 📝 Tesseract OCR 참고 자료
 - **[Joyhong's Blog - Korean NLP Tips](https://joyhong.tistory.com/79)**  
-  한국어 자연어 처리(NLP)에 대한 유용한 정보와 팁을 제공합니다.
+  OCR에 대한 유용한 정보와 팁을 제공합니다.
 
 ### 🔊 Text-to-Speech
 - **[gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS)**  
